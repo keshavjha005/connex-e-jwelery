@@ -1,4 +1,4 @@
-# DNX-Jewelry-Store-eCommerce 💍🛍️
+# connex-Jewelry-Store-eCommerce 💍🛍️
 
 ## Welcome to DNX Jewelry Store eCommerce!
 
