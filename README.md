@@ -1,6 +1,6 @@
 # connex-Jewelry-Store-eCommerce 💍🛍️
 
-## Welcome to DNX Jewelry Store eCommerce!
+## Welcome to Connex Jewelry Store eCommerce!
 
 This project is an online platform for purchasing exquisite jewelry items. The application is designed to provide a seamless shopping experience for users interested in high-quality jewelry.
 
